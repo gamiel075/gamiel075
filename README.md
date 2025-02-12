@@ -1,8 +1,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gamiel075&hide_progress=true&theme=radical)
-
+<h1>Olá meu nome é Gabriel</h1>
 
 <div align="center">
 	<code><img width="42" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
